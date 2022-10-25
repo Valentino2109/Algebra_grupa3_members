@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+ body {
+    background-image: url(./backg-pic.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+ }
+
+ #full-table {
+    margin-left: 5%;
+ }
+
+ tr:hover {background-color: rgb(145, 218, 112);}
+
+ table {
+    border-collapse: collapse;
+    text-align: justify;
+    width: 35%;
+ }
+
+ th {
+    height: 50px;
+    font-size: 20px;
+}
+
+ tr {
+    height: 20px;
+ }
+
+ td {
+    padding: 3px;
+ }
